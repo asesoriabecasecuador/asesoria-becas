@@ -70,7 +70,7 @@ export default function FAQs() {
       category: "compensacion",
       question: "Recibí una notificación de terminación unilateral, ¿significa que debo devolver el monto total de la beca inmediatamente?",
       answer: "Dentro del proceso de beca te van a llegar diferentes notificaciones. Una notificación de terminación unilateral no siempre significa que debes devolver de inmediato el monto de la beca. Nosotros verificamos que tipo de notificación es, y si es posible evitar una posible coactiva por parte del Ministerio de Educación. Debido a que el plazo para justificar posible incumplimientos es limitado, es importante actuar inmediatamente. Agenda tu consulta ya."
-    },
+    }
 
   ];
 
