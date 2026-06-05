@@ -15,11 +15,11 @@ export default function BotFlowExplanation({ initialService, onConversion }: Bot
       number: "01",
       title: "Pre-evaluación rápida",
       subtitle: "Diagnóstico inicial",
-      shortDesc: "El bot oficial de Telegram te guía con unas preguntas clave sobre tu beca.",
-      explanation: "Inicias el bot oficial de Telegram y detallas rápidamente los aspectos clave de tu caso: qué estudiaste, el país y el estado actual de tu beca (sea para registrar tu título, compensar tus años trabajados o liquidar cuentas financieras). Es de acceso inmediato, no requiere logins engorrosos ni te pide información privada.",
+      shortDesc: "En el bot de Telegram puedes realizar preguntas clave sobre tu beca.",
+      explanation: "Inicias el bot de Telegram y detallas rápidamente los aspectos clave de tu caso: qué estudiaste, el país y el estado actual de tu beca (sea para registrar tu título, compensar tus años trabajados o liquidar cuentas financieras). Es de acceso inmediato, no requiere logins engorrosos ni te pide información privada.",
       icon: MessageSquare,
-      userPart: "Contestas las preguntas rápidas sobre el origen de tu título y en qué fase del proceso te encuentras.",
-      expertPart: "El bot selecciona instantáneamente el modelo normativo aplicable para evaluar tu viabilidad administrativa."
+      userPart: "Contestas las preguntas rápidas sobre el situación y en qué fase del proceso te encuentras.",
+      expertPart: "Un consultor analiza tu caso y verifica la normativa aplicable para evaluar tu viabilidad administrativa."
     },
     {
       id: 2,
