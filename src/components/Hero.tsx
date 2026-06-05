@@ -46,7 +46,7 @@ export default function Hero({ onSimulateClick, onConversion, conversionCount }:
             EFICIENCIA TÉCNICA
           </div>
           <p className="text-xs sm:text-sm font-sans font-medium text-neutral-800 leading-relaxed">
-            El <strong className="font-extrabold text-[#0E3572] text-[13px] sm:text-base">90%</strong> de los trámites se soluciona rápido por la vía administrativa y <strong className="font-bold text-neutral-900">no requiere abogados ni juicios eternos</strong>.
+            ¿Sabías que el <strong className="font-extrabold text-[#0E3572] text-[13px] sm:text-base">90%</strong> de los trámites se soluciona rápido por la vía administrativa y <strong className="font-bold text-neutral-900">no requiere abogados ni juicios eternos</strong>?
           </p>
         </div>
 
