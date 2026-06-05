@@ -1,0 +1,6 @@
+{
+  "name": "Asesoría Premium de Becas ex-SENESCYT",
+  "description": "Plataforma de asesoría de alto nivel especializada en compensación, liquidación y registro de títulos de becas ex-SENESCYT y programas del Ministerio de Educación de Ecuador para ecuatorianos en el exterior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
