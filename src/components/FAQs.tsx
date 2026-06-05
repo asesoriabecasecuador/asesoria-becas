@@ -51,26 +51,26 @@ export default function FAQs() {
       category: "coactivas",
       question: "¿Es factible regularizar los posibles incumplimientos contractuales si ya se ha emitido una resolución de terminación unilateral del contrato?",
       answer: "Es sumamente complejo pero factible. Si se demuestra una vulneración al debido proceso administrativo en las resoluciones oficiales o si existió fuerza mayor no ponderada por la administración, se pueden interponer reclamos formales y revisiones técnicas por la vía administrativa rápida. Agenda tu consulta para revisar tu caso."
-    }
+    },
 
     {
       id: "faq_7",
       category: "todos",
       question: "¿Cuál es el costo estimado de la asesoría?",
       answer: "Manejamos precios acordes a tu situación. Previo a la revisión exhaustiva de tu caso, realizamos una verificación de viabilidad. Si consideramos que no podemos obtener éxito en tu trámite, solo cobramos la consulta inicial. Para los casos de compensación, cobramos en relación al monto total de tu beca y de la complejidad de los posibles incumplimientos incurridos. Sin embargo, nuestros precios son mucho menores a nuestra compentencia ya que evitamos recurrir a la vía judicial en la mayoría de los casos."
-    }
+    },
     {
       id: "faq_8",
       category: "liquidacion",
       question: "¿Cómo puedo saber si mi beca ya fue liquidada?",
-      answer: "Si la SENESCYT o el IFTH te emitieron el 'Certificado de No Adeudar' o la 'Resolución de Liquidación Académica" tu beca ya está liquidada. Ten en cuenta que si debes compensar, la liquidación no significa que ya has cumplido con esta obligación. Si tu beca aún no ha sido liquidada, te asesoramos para que el Ministerio de Educación procese tu caso de manera más rápida."
-    }
+      answer: "Si la SENESCYT o el IFTH te emitieron el 'Certificado de No Adeudar' o la 'Resolución de Liquidación Académica' tu beca ya está liquidada. Ten en cuenta que si debes compensar, la liquidación no significa que ya has cumplido con esta obligación. Si tu beca aún no ha sido liquidada, te asesoramos para que el Ministerio de Educación procese tu caso de manera más rápida."
+    },
     {
       id: "faq_9",
       category: "compensacion",
       question: "Recibí una notificación de terminación unilateral, ¿significa que debo devolver el monto total de la beca inmediatamente?",
       answer: "Dentro del proceso de beca te van a llegar diferentes notificaciones. Una notificación de terminación unilateral no siempre significa que debes devolver de inmediato el monto de la beca. Nosotros verificamos que tipo de notificación es, y si es posible evitar una posible coactiva por parte del Ministerio de Educación. Debido a que el plazo para justificar posible incumplimientos es limitado, es importante actuar inmediatamente. Agenda tu consulta ya."
-    }
+    },
 
   ];
 
